@@ -1,0 +1,50 @@
+.no_bull {
+  list-style-type: none;
+  display: inline;
+  margin-right: 30px;
+  float: right;
+  transform: translateY(-83px);
+  text-decoration: none;
+  font-weight: lighter;
+}
+
+.no_bull2 {
+  list-style-type: none;
+  display: inline;
+  margin-right: 50px;
+  float: right;
+  transform: translateY(-110px);
+  text-decoration: none;
+}
+
+.logo {
+  position: relative;
+  width: 8%;
+  display: inline;
+  align-items: center;
+}
+
+.Navbar {
+  background-color: crimson;
+  border-radius: 25px;
+}
+
+.Whole {
+  background-color: black;
+}
+
+.NoUnder {
+  text-decoration: none;
+  color: white;
+  font-size: 25px;
+  font-weight: lighter;
+}
+
+.NoUnder2 {
+  text-decoration: none;
+  color: white;
+  font-size: 25px;
+  font-family: "Trebuchet MS";
+  font-weight: bolder;
+  font-style: italic;
+}

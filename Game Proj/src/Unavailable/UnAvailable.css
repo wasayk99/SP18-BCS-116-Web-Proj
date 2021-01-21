@@ -1,0 +1,14 @@
+body,
+html {
+  height: 100%;
+  margin: 0px;
+}
+
+.Unavailable {
+  background-image: url("./404-error-background_23-2148110015.jpg");
+  position: absolute;
+  height: 118%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
